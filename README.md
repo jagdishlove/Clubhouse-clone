@@ -29,3 +29,7 @@ This is clone of Clubhouse with amazing `features` .
 <div class="text-red">
   This text is purple, <a href="#" class="text-inherit">including the link</a>
 </div>
+
+<div class="text-purple mb-2">
+  .text-purple on white
+</div>
