@@ -8,7 +8,7 @@ In short: Clubhouse is an audio-based social media app. The company describes it
 This is clone of Clubhouse with amazing `features` .
 
 ## Libraries Used
-- Bootstrap
+- [Bootstrap](/Bootstrap/)
 - React-router
 - React-Hooks
 - HTML
