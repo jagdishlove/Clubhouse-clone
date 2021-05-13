@@ -19,3 +19,6 @@ This is Clone of Clubhouse which is very good platform for social gathering and 
 >- react-phone-number-input
 >- Linked pages by using React-router ``Link`` Tag
 
+> Used Images
+>- Back Button
+>- Next Button
