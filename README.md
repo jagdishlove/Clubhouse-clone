@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#About 
+# About 
 
 This is Clone of Clubhouse which is very good platform for social gathering and private meetings. 
 
