@@ -10,3 +10,8 @@ This is Clone of Clubhouse which is very good platform for social gathering and 
 - Bootstrap
 - React-router
 - React-Hooks
+- HTML
+- CSS
+- JSX
+
+
