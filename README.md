@@ -23,3 +23,9 @@ This is clone of Clubhouse with amazing `features` .
 > Used Images
 >- Back Button
 >- Next Button
+>
+
+
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
