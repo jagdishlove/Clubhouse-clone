@@ -16,7 +16,7 @@ This is clone of Clubhouse with amazing `features` .
 - JSX
 
 
-> Dynamic Pages with dummy phone confirmationa and sms confirmation by using 
+> Dynamic Pages with dummy phone Confirmation  and sms confirmation by using 
 >- react-phone-number-input
 >- Linked pages by using React-router `Link` Tag
 
