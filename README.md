@@ -26,7 +26,7 @@ This is clone of Clubhouse with amazing `features` .
 >
 
 
-<div class="text-red">
+<div class="text-red .bg-yellow">
   This text is purple, <a href="#" class="text-inherit">including the link</a>
 </div>
 
