@@ -9,11 +9,11 @@ This is clone of Clubhouse with amazing `features` .
 
 ## Libraries Used
 - [Bootstrap](https://react-bootstrap.github.io/getting-started/introduction/)
-- React-router
-- React-Hooks
-- HTML
-- CSS
-- JSX
+- [React-router](https://www.npmjs.com/package/router)
+- [React-Hooks](https://www.codecademy.com/learn/react-101/modules/react-hooks-u)
+- [HTML](https://www.w3schools.com/html/)
+-[CSS](https://www.w3schools.com/css/)
+- [JSX](https://reactjs.org/docs/introducing-jsx.html)
 
 
 > Dynamic Pages with dummy phone Confirmation  and sms confirmation by using 
