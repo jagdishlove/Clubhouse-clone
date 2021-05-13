@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # About 
 
-This is Clone of Clubhouse which is very good platform for social gathering and private meetings. 
+In short: Clubhouse is an audio-based social media app. The company describes itself as "a new type of social product based on voice [that] allows people everywhere to talk, tell stories, develop ideas, deepen friendships, and meet interesting new people around the world.
 
 ## Libraries Used
 - Bootstrap
