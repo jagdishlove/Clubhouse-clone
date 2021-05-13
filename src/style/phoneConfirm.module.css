@@ -1,0 +1,7 @@
+.phoneConfirmContainer{
+    padding:3em  1.7em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import style from "../style/welcome.module.css";
+import style from "../style/phoneConfirm.module.css";
 
 function PhoneConformation() {
   const [value, setValue] = useState();
