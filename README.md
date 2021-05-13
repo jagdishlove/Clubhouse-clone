@@ -15,5 +15,6 @@ This is Clone of Clubhouse which is very good platform for social gathering and 
 - JSX
 
 
-> Dynamic Pages with dummy phone confirmationa and sms confirmation by using > - react-phone-number-input
+> Dynamic Pages with dummy phone confirmationa and sms confirmation by using 
+>- react-phone-number-input
 
