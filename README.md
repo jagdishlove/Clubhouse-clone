@@ -12,7 +12,7 @@ This is clone of Clubhouse with amazing `features` .
 - [React-router](https://www.npmjs.com/package/router)
 - [React-Hooks](https://www.codecademy.com/learn/react-101/modules/react-hooks-u)
 - [HTML](https://www.w3schools.com/html/)
--[CSS](https://www.w3schools.com/css/)
+- [CSS](https://www.w3schools.com/css/)
 - [JSX](https://reactjs.org/docs/introducing-jsx.html)
 
 
