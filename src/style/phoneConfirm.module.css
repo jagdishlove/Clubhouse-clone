@@ -4,7 +4,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 120vh;
+  height: 100vh;
   background-color: #f2f0e4;
   position: relative;
 }
@@ -31,16 +31,60 @@
   font-weight: 500;
 }
 
-
-.backBttn{
-  position:absolute;
-  top:10px;
-  left:10px;
+.backBttn {
+  position: absolute;
+  top: 10px;
+  left: 10px;
 }
 
-.backBttn img{
- position: absolute;
-  width:20px;
+.backBttn img {
+  position: absolute;
+  width: 20px;
 }
 
+.notificationContainer {
+  border-radius: 1em;
+  background-color: #ffff;
+  box-shadow: 0px 0px 5px #cccccc;
+}
 
+.notificationContainer h3 {
+  font-size: 1em;
+  font-weight: 500;
+  color: #000000;
+  width: 100%;
+  margin: auto;
+  margin-bottom: 0.3em;
+}
+
+.notificationContainer p {
+  font-size: 0.825em;
+  font-weight: 500;
+  line-height: 1.3;
+  margin: auto;
+}
+
+.notificationContainer .action_btn {
+  position: relative;
+  text-align: center;
+}
+
+.notificationContainer .action_btn a {
+  display: inline-block;
+  width: 50%;
+  text-decoration: none;
+  padding: 0.5em;
+  border-top: 1px solid #cccccc;
+  color: var(--btnBgColor);
+}
+
+.notificationContainer .action_btn > a:first-child {
+  border-right: 1px solid #cccccc;
+}
+
+.notificationContainer .hand_icon {
+  position: absolute;
+  bottom: -90px;
+  right: 50px;
+  width: 80px;
+}

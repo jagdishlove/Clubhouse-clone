@@ -21,15 +21,15 @@ function PhoneConformation() {
       <p>
         By entering your number, your're agreeing to put{" "}
         <span>Term of Service and Policy. </span>
-        Thanks!
+         Thanks!
       </p>
       <Link
         exact
         to="/code_confirm"
-        className="primaryBtn d-flex align-items-center"
+        className="primaryBtn align-items-center d-flex"
       >
         Next 
-        <img src="/images/nextArrowIcon.svg" className="" alt=" " />
+        <img src="/images/nextArrowIcon.svg" className="ml-1" alt=" " />
       </Link>
     </div>
   );

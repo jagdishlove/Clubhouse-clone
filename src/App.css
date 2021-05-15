@@ -16,20 +16,28 @@ button {
   outline:none !important;
 }
 
-a {
-  text-decoration: none;
-}
-
 .primaryBtn{
   background-color: var(--btnBgColor);
   color:#ffff;
-  border-radius: 2em;
+  border-radius:2em;
   padding:0.5em 1.5em;
-  font-size: 1.2em;
-  font-weight: 500;
+  font-size:1.2em;
+  font-weight:500;
+  font-style:normal;
+  text-align:center;
   text-decoration: none;
-  font-style: normal;
-  text-align: center;
-  
+  margin-top:10px;
 }
+
+.primaryBtn img{
+  padding:2px;
+  position: relative;
+  top:2px;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+
 
