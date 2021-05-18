@@ -12,7 +12,7 @@ function CodeConfirm() {
             <div className="text-center" >
                 <h1 sryle={{ width: '100%', maxWidth: '200px', marginBottom: "1em" }}>Enter the code we send you</h1>
                 <input type="text" placeholder="Enter Here"
-                style={{width:"80%",border:"none",textAlign:"center", outline:"none"}}/>
+                style={{backgroundColor:"#d3d3d3",width:"80%",border:"none",textAlign:"center", outline:"none", }}/>
                 <p className="mt-2">Didn't receive it? <span>Tap to resend.</span></p>
             </div>
             <Link
