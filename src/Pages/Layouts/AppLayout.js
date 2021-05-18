@@ -1,9 +1,11 @@
 import React from 'react'
 
 
-function AppLayout() {
+function AppLayout({children}) {
     return (
-        <div>
+        <div className="app_layout">
+
+            {children}
             
         </div>
     )

@@ -27,6 +27,12 @@ function App() {
       </Switch>
     </PlanLayout>
     </Route>
+    <Route exact path={['/home']}>
+      <Switch>
+        <Route eaxct path='/home' component=></Route>
+      </Switch>
+
+    </Route>
     
     </BrowserRouter>
 
