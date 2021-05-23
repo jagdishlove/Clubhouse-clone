@@ -1,5 +1,6 @@
 import './App.css';
 import PlanLayout from './Pages/Layouts/PlanLayout';
+import Home from './Pages/Home'
 import Welcome from './Pages/Welcome';
 import {BrowserRouter, Route, Switch} from "react-router-dom";
 import PhoneConformation from './Pages/PhoneConformation';
@@ -29,7 +30,7 @@ function App() {
     </Route>
     <Route exact path={['/home']}>
       <Switch>
-        <Route eaxct path='/home' component=></Route>
+        <Route eaxct path='/home' component={()=><Home/>}></Route>
       </Switch>
 
     </Route>
