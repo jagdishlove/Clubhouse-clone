@@ -12,13 +12,13 @@ function Header() {
           <img src="/images/invite.png" alt="" />
         </Link>
         <Link exact to="/upcoming">
-          <img src="/images/invite.png" alt="" />
+          <img src="/images/calendar.png" alt="" />
         </Link>
-        <Link exact to="/friends_invite">
-          <img src="/images/invite.png" alt="" />
+        <Link exact to="/activity">
+          <img src="/images/noti.png" alt="" />
         </Link>
-        <Link exact to="/friends_invite">
-          <img src="/images/invite.png" alt="" />
+        <Link exact to="/profile">
+          <img src="/images/b1.png" alt="" />
         </Link>
       </div>
     </div>

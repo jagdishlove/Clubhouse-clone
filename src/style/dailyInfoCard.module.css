@@ -1,0 +1,41 @@
+.dailyCard {
+  background-color: whitesmoke;
+  padding: 0.5em 1em;
+  margin-right: 2.2em;
+  border-radius: 1em;
+}
+
+.dailyCard div{
+  display: flex;
+
+
+}
+.dailyCard > div > div{
+  margin-left:10px;
+
+}
+
+
+.title_des{
+  flex-direction: column;
+  
+}
+.time{
+  font-size: 0.675em;
+  font-weight: 500;
+}
+
+.title_des span{
+  font-size: 0.675em;
+  font-weight:500;
+  color: var(--textColor);
+}
+
+.title_des p{
+
+  font-size: 0.875em;
+  font-weight: 500;
+  line-height: 1;
+
+}
+

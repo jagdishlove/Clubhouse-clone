@@ -1,0 +1,7 @@
+.home_container{
+    padding-top:3.5em;
+    overflow: auto;
+    padding-left: 3.5em;
+    padding-bottom:3.5em;
+    height:100%;
+}
