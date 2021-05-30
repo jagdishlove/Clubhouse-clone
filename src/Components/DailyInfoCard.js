@@ -15,7 +15,10 @@ function DailyinfoCard() {
           <span>{item.title}</span>
           <p>{item.description}</p>
         </div>
+
+        
         </div>
+         
         
       ))}
     </div>

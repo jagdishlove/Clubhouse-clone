@@ -3,39 +3,37 @@
   padding: 0.5em 1em;
   margin-right: 2.2em;
   border-radius: 1em;
+  white-space: nowrap;
+  overflow: hidden !important;
 }
 
-.dailyCard div{
+.dailyCard div {
   display: flex;
-
-
 }
-.dailyCard > div > div{
-  margin-left:10px;
-
+.dailyCard > div > div {
+  margin-left: 10px;
 }
 
-
-.title_des{
+.title_des {
   flex-direction: column;
-  
 }
-.time{
+.time {
   font-size: 0.675em;
   font-weight: 500;
-}
-
-.title_des span{
-  font-size: 0.675em;
-  font-weight:500;
   color: var(--textColor);
 }
 
-.title_des p{
+.title_des span {
+  font-size: 0.675em;
+  font-weight: 500;
+  color: var(--textColor);
+}
 
+.title_des p {
   font-size: 0.875em;
   font-weight: 500;
   line-height: 1;
-
+  display: inline-block;
+  width: 320px;
+  text-overflow: ellipsis;
 }
-
