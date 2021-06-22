@@ -1,7 +1,7 @@
 .roomCardContainer{
     background-color: #ffffff;
     padding:1em 1em;
-    width:98%;
+    width:85%;
     border-radius:1em;
     border:none;
     margin-top:0.5em;
@@ -21,17 +21,18 @@
 }
 
 .roomMembers img{
-    height:3.5em;
+    height:35px;
+    width: 35px;
     position: relative;
-    border-radius: 1.3em;
+    border-radius: 0.9em;
    z-index:1;
 }
 
 .roomMembers img:last-child{
     position: relative;
-    right:1em;
+    right:1.3em;
    z-index: 0;
-   top:2em;
+   top:1.4em;
 }
 
 .roomMembers{
@@ -41,7 +42,7 @@
 
 .roomMembers p{
     font-size: 0.975em;
-    font-weight: 500;
+    font-weight: 400;
     line-height:1;
     margin-bottom: 0.5em;
     color: var(--textColor);
