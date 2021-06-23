@@ -1,7 +1,7 @@
 [{
     "id":1,
-    "title":"GoodTime",
-    "sub_title":"Calivn Hrris X",
+    "title":"PRACTICE YOUR SPANISH",
+    "sub_title":"Dale aa la lengua!",
     "members":[{
         "first_name":"Jagdish",
         "last_name":"Mehra"
@@ -22,45 +22,45 @@
 },
 {
     "id":2,
-    "title":"Good Times",
-    "sub_title":"Calivn Hrris X dfgdfg",
+    "title":"THE ACCOUSTIC LOUNGE",
+    "sub_title":"let's make everyone smile..",
     "members":[{
-        "first_name":"Jagdish",
-        "last_name":"Mehra"
+        "first_name":"kishan",
+        "last_name":"kumar"
     },
     {
-        "first_name":"rahul",
+        "first_name":"deepak",
         "last_name":"Singh"
     },
     {
-        "first_name":"savita",
+        "first_name":"love",
         "last_name":"kumari"
     },
     {
-        "first_name":"Bhawana",
-        "last_name":"Mehra"
+        "first_name":"Bhuwan",
+        "last_name":"singh"
     }
     ]
 },
 {
     "id":3,
-    "title":"Good Times",
-    "sub_title":"Calivn Hrris X dfgdfg",
+    "title":"ANONYMOUS TYPOLOGIES",
+    "sub_title":"Paranomal Activity",
     "members":[{
-        "first_name":"Jagdish",
-        "last_name":"Mehra"
-    },
-    {
-        "first_name":"rahul",
-        "last_name":"Singh"
-    },
-    {
-        "first_name":"savita",
+        "first_name":"palak",
         "last_name":"kumari"
     },
     {
-        "first_name":"Bhawana",
-        "last_name":"Mehra"
+        "first_name":"diksha",
+        "last_name":"Singh"
+    },
+    {
+        "first_name":"rose",
+        "last_name":"kumari"
+    },
+    {
+        "first_name":"babita",
+        "last_name":"singh"
     }
     ]
 }

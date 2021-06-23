@@ -22,7 +22,7 @@ export default function Welcome() {
       <div className={style.actionBtn}>
         <Link
           exact
-          to="/get_username"
+          to="/invite"
           className="primaryBtn d-flex align-items-center mb-3"
           
         >Get your username </Link>

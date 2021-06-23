@@ -1,10 +1,11 @@
 .roomCardContainer{
+    margin-left:-2em;
     background-color: #ffffff;
     padding:1em 1em;
-    width:85%;
     border-radius:1em;
     border:none;
-    margin-top:0.5em;
+   width: 102%;
+    margin-top:1.3em;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
 }
 
@@ -17,7 +18,8 @@
     font-size: 0.875em;
     font-weight: 500;
     line-height: 1;
-    color:#000000
+    color:#000000;
+    line-height: 1.2;
 }
 
 .roomMembers img{
@@ -25,7 +27,7 @@
     width: 35px;
     position: relative;
     border-radius: 0.9em;
-   z-index:1;
+   
 }
 
 .roomMembers img:last-child{

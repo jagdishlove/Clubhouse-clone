@@ -1,9 +1,10 @@
 .dailyCard {
-  background-color: whitesmoke;
+  background-color: rgb(212, 207, 207);
   padding: 0.5em 1em;
-  margin-right: 2.2em;
+  width: 102%;
   border-radius: 1em;
   white-space: nowrap;
+  margin-left: -2em;
   overflow: hidden !important;
 }
 

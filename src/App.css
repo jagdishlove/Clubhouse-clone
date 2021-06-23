@@ -4,6 +4,7 @@
 }
 html{
   scroll-behavior: smooth;
+  overflow: hidden;
 }
 
 body{
@@ -38,6 +39,8 @@ button {
 a:hover{
   text-decoration: none;
 }
+
+
 
 
 

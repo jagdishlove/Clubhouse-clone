@@ -1,7 +1,7 @@
 import React,{useState, useEffect} from 'react'
 import style from "../style/roomCard.module.css";
 import data from "../Data/roomCard.json";
-import {BsChatDots, BsChatDotsFill, bsChatDotsFill, BsFillPersonFill} from "react-icons/bs"
+import {BsChatDots, BsChatDotsFill, BsFillPersonFill} from "react-icons/bs"
 
 function RoomInfoCard(props) {
     return (
