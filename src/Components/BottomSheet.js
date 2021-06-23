@@ -15,7 +15,14 @@ function BottomSheet(props) {
             <div 
             className={style.BottomSheeetContainer} style={{
                 backgroundColor:props.sheetTitle == "profile" ? "transparent":" "
-            }}>
+            }}> 
+            <StartRoom 
+            setSheetCreateRoom={props.setSheetCreateRoom}
+            setSheetVisible={(item)=>{
+                props.setSheetVisible(item);
+                props.setItemsVisible(true);
+            }}
+            />
 
             </div>
         </SwipeableBottomSheet>
