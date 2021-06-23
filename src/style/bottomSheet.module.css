@@ -1,0 +1,7 @@
+.bottomSheetContainer{
+    background-color: #ffffff;
+    border-radius: 1.5em 1.5em 0 0;
+    padding:1.5em 1em;
+    position: relative;
+    height:100%;
+}
