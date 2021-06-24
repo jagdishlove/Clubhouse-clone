@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import style from '../../style/bottomSheet.module.css';
-import { FcGlobe } from "react-icons/fc";
+import { FcGlobe, FcLock } from "react-icons/fc";
+import {RiTeamFill} from "react-icons/ri"
 
 function StartRoom(props) {
     const [room, setRoom] = useState("open");
@@ -23,14 +24,15 @@ function StartRoom(props) {
                 <button className={room == "social" ? style.active : ""}
                     onClick={() => setRoom("social")}>
                     <div>
-                        <FcGlobe />
+                        <RiTeamFill />
                     </div>
                     Social
                 </button>
                 <button className={room == "closed" ? style.active : ""}
                     onClick={() => setRoom("closed")}>
                     <div>
-                        <FcGlobe />
+                        
+                        <FcLock />
                     </div>
                     Closed
                 </button>

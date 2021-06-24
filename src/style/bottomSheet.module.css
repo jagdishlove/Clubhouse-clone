@@ -47,10 +47,19 @@
  
 
 .selectRoom button div{
-    background-color: lightseagreen;
+    
     border-radius: 1.5em;
 
 }
+
+.selectRoom button:last-child div{
+  background-color: #6099c7;
+  background-image: linear-gradient(300deg, #7798b3 0%, #74839e 74%);
+  
+}
+
+
+
 
 .selectRoom button svg{
     font-size: 4em;
