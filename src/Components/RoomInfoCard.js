@@ -20,9 +20,9 @@ function RoomInfoCard(props) {
                             </div>
                             <div>
                                 {item.members.map((person) => (
-                                 <p>{person.first_name} {person.last_name}<BsChatDots/>
+                                 <p>{person.first_name} {person.last_name} <BsChatDots/>
                                  </p>
-
+  
                                 ))}
 
                                 <p className="d-flex align-items-center">
